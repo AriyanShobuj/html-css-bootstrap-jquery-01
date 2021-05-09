@@ -1,0 +1,107 @@
+@media (max-width:1200px){
+    .contact-items textarea{
+        padding-right: 250px;
+    }
+}
+@media(max-width:1024px){
+    .contact-items textarea{
+        padding-right: 180px;
+    }
+
+}
+@media(max-width:900px){
+    .contact-items textarea{
+        padding-right: 150px;
+    }
+
+}
+@media(max-width:768px){
+    .contact-items textarea{
+        padding-right: 114px;
+    }
+    .item-center{
+        margin-left: 26%;
+        margin-top: 30px;
+    }
+    .carousel-item h3{
+        font-size: 20px;
+    }
+    .carousel-item h2{
+        font-size: 35px;
+        width: 447px;
+    }
+    .portfolio-item{
+        margin:10px 10px ;
+    }
+
+}
+@media(max-width:576px){
+    .contact-items textarea{
+        padding-right: 150px;
+    }
+}
+@media(max-width:480px){
+    .contact-items textarea {
+        padding-right: 127px;
+    }
+    .item-center {
+        margin-left: 4%;
+    }
+    .contact-items button {
+      margin-left: 100px;
+    }
+    .carousel-item h2 {
+        font-size: 30px;
+        width: 338px;
+    }
+    .carousel-item h4 {
+        font-size: 17px;
+    }
+}
+@media(max-width:320px){
+    .contact-items textarea{
+        padding-right: 70px;
+
+    }
+    .item-center{
+        margin-left: 0%;
+    }
+    .footer-social li a {
+        font-size: 36px;
+        margin-right: 6px;
+    }
+    .contact-items button{
+       margin-left: 57px;
+    }
+    .carousel-item h3 {
+        font-size: 14px;
+    }
+    .carousel-item h2 {
+        font-size: 30px;
+        width: 288px;
+    }
+    .carousel-item h4 {
+        font-size: 15px;
+    }
+}
+@media(max-width:400px){
+    .contact-items textarea{
+        padding-right: 135px;
+
+    }
+}
+@media(max-width:1450px){
+    .contact-items textarea {
+     padding-left: 50px;
+    }
+}
+@media(max-width:1920px){
+    .contact-items textarea {
+     padding-left: 60px;
+    }
+}
+@media(max-width:375px){
+    .contact-items textarea {
+            padding-right: 81px;
+        }
+}
